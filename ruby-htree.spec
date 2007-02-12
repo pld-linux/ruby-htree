@@ -1,5 +1,5 @@
 Summary:	An HTML parser
-Summary(pl.UTF-8):   Analizator HTML-a
+Summary(pl.UTF-8):	Analizator HTML-a
 Name:		ruby-htree
 Version:	0.4
 Release:	1
