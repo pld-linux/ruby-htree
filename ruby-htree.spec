@@ -1,5 +1,5 @@
 Summary:	An HTML parser
-Summary(pl):	Analizator HTML-a
+Summary(pl.UTF-8):   Analizator HTML-a
 Name:		ruby-htree
 Version:	0.4
 Release:	1
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 htree provides a tree data structure which represent HTML and XML
 data.
 
-%description -l pl
-htree udostêpnia drzewiast± strukturê danych reprezentuj±c± dane HTML
+%description -l pl.UTF-8
+htree udostÄ™pnia drzewiastÄ… strukturÄ™ danych reprezentujÄ…cÄ… dane HTML
 i XML.
 
 %prep
