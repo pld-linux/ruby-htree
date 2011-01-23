@@ -8,7 +8,6 @@ Group:		Development/Languages
 Source0:	http://cvs.m17n.org/viewcvs/ruby/htree.tar.gz
 # Source0-md5:	8f9b47308463d267753a91e901b68c32
 URL:		http://cvs.m17n.org/~akr/htree/
-BuildRequires:	rake
 BuildRequires:	rpmbuild(macros) >= 1.277
 BuildRequires:	setup.rb >= 3.3.1
 #BuildArch:	noarch
