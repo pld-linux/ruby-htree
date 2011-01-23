@@ -10,7 +10,7 @@ Source0:	http://cvs.m17n.org/viewcvs/ruby/htree.tar.gz
 URL:		http://cvs.m17n.org/~akr/htree/
 BuildRequires:	rake
 BuildRequires:	rpmbuild(macros) >= 1.277
-BuildRequires:	setup.rb = 3.3.1
+BuildRequires:	setup.rb >= 3.3.1
 #BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
